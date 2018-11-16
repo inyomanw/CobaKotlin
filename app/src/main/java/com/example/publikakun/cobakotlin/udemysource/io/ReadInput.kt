@@ -1,3 +1,5 @@
+package com.example.publikakun.cobakotlin.udemysource.io
+
 fun main(args: Array<String>) {
     /*
        Read input

@@ -1,3 +1,5 @@
+package com.example.publikakun.cobakotlin.udemysource.decisionmaking
+
 fun main(args: Array<String>) {
     //Do-While Loop - it at least runs once
     var counter = 1

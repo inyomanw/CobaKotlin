@@ -1,4 +1,4 @@
-
+package com.example.publikakun.cobakotlin.udemysource.advanceoop
 
 class Login<T> (name: T, password: T) {
     init {
@@ -12,7 +12,7 @@ class Person(username: String, password: String) {
     init {
         this.username = username
         this.password = password
-        println("Person class")
+        println("com.example.publikakun.cobakotlin.udemysource.advanceoop.Person class")
     }
 }
 

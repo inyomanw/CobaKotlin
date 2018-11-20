@@ -1,4 +1,4 @@
-package com.example.publikakun.cobakotlin.udemysource.operatorsandoperation
+package com.example.publikakun.cobakotlin.udemysource.decisionmaking
 fun main(args: Array<String>) {
     /*
         Conditional Operators

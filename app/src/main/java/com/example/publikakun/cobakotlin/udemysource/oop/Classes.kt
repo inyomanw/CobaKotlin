@@ -1,4 +1,4 @@
-
+package com.example.publikakun.cobakotlin.udemysource.oop
 class House(type: String, price: Double, yearBuilt: Int, owner: String ) {
 
     var type: String? = null

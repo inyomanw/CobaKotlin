@@ -158,7 +158,7 @@ fun main(args: Array<String>) {
 //
 //
 //
-//    lion.showName()
+//    lion.com.example.publikakun.cobakotlin.udemysource.oop.showName()
 
 
 

@@ -19,7 +19,9 @@ class MainActivity : AppCompatActivity() {
 
         }
         btn_intent.setOnClickListener {
-            startActivity(Intent(this,Main2Activity::class.java))
+            startActivity(Intent(this,Main2Activity::class.java).apply {
+                putExtra(Constant.KEY,"KEY")
+            })
         }
     }
 }
